@@ -1,0 +1,12 @@
+{
+    "name": "hello",
+    "version": "0.0.1",
+    "description": "Helloworld in nodejs",
+    "private": true,
+    "main": "hello.js",
+    "author": "Qi Wenmin",
+
+    "scripts": {
+        "start": "node hello.js"
+    }
+}
