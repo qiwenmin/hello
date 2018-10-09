@@ -10,7 +10,7 @@ _start:
 	mov	r0, $0
 	mov	r7, $1
 	svc	$0
-	
+
 	.data
 msg:	.ascii "Hello, world!\n"
 	len = . - msg
